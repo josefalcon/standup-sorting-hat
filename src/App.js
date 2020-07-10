@@ -74,20 +74,27 @@ function Result({ person, sorted }) {
 function App() {
   const [selectedPerson, setSelectedPerson] = useState(undefined);
   const [sorted, setSorted] = useState(false);
+  const [sorting, setSorting] = useState(false);
 
   function pickSomeone() {
     return team.members[Math.floor(Math.random() * team.members.length)];
   }
 
   async function handleSort() {
+    if (sorting) {
+      return;
+    }
+
     shuffle(team.members);
     
     setSorted(false);
+    setSorting(true);
     for (let i = 0; i < 40; i++) {
       setSelectedPerson(pickSomeone());
       await sleep(30 * (Math.sqrt(i)));
     }
     setSorted(true);
+    setSorting(false);
   }  
   
   return (
