@@ -2,10 +2,12 @@
   "name": "standup-sorting-hat",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://josefalcon.github.io/standup-sorting-hat",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "gh-pages": "^3.1.0",
     "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
