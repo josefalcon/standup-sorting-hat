@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/standup-sorting-hat/static/css/main.7b9d120d.chunk.css",
+    "main.js": "/standup-sorting-hat/static/js/main.a86aa1e6.chunk.js",
+    "main.js.map": "/standup-sorting-hat/static/js/main.a86aa1e6.chunk.js.map",
+    "runtime-main.js": "/standup-sorting-hat/static/js/runtime-main.432f5c57.js",
+    "runtime-main.js.map": "/standup-sorting-hat/static/js/runtime-main.432f5c57.js.map",
+    "static/js/2.8b6f1487.chunk.js": "/standup-sorting-hat/static/js/2.8b6f1487.chunk.js",
+    "static/js/2.8b6f1487.chunk.js.map": "/standup-sorting-hat/static/js/2.8b6f1487.chunk.js.map",
+    "index.html": "/standup-sorting-hat/index.html",
+    "precache-manifest.dd7c3c40ab02bf0ea8d9aba2182628be.js": "/standup-sorting-hat/precache-manifest.dd7c3c40ab02bf0ea8d9aba2182628be.js",
+    "service-worker.js": "/standup-sorting-hat/service-worker.js",
+    "static/css/main.7b9d120d.chunk.css.map": "/standup-sorting-hat/static/css/main.7b9d120d.chunk.css.map",
+    "static/js/2.8b6f1487.chunk.js.LICENSE.txt": "/standup-sorting-hat/static/js/2.8b6f1487.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/standup-sorting-hat/static/media/harry_potter.181ef9a7.ttf",
+    "static/media/sortinghat.svg": "/standup-sorting-hat/static/media/sortinghat.c17c5207.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.432f5c57.js",
+    "static/js/2.8b6f1487.chunk.js",
+    "static/css/main.7b9d120d.chunk.css",
+    "static/js/main.a86aa1e6.chunk.js"
+  ]
+}
